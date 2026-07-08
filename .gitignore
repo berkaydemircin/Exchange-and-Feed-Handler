@@ -1,4 +1,8 @@
-build/
+build*
 *.bin
 *.log
 .DS_Store
+bench_journal*
+*.o
+*.exe
+*.a
